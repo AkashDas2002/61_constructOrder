@@ -8,7 +8,6 @@ public class UserWantsOrder {
     
     public static void main(String[] commandLine) {
         System.out.println();
-        
         // create the data destined for OL_iAS
         ArrayList<Integer> chaos =
            new ArrayList<Integer>();
